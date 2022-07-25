@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dperabeles&label=Profile%20views&color=2289c9&style=flat-square" alt="dperabeles" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript **
+- 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
 - 👓 I'm planning on learning **SQL, React, Node, Ruby on Rails, Swift, Tailwind, Rust**
 
