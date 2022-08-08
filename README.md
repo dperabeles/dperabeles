@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [linkedin.com/dperabeles](linkedin.com/dperabeles)
 
-- 🏗 Looking for a place to work where I can do both thing I love, **Architecture and Programming**
+- 🏗 Looking for a place to work where I can do both things I love, **Architecture and Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
